@@ -6,7 +6,7 @@ Este desafio esta disponivel na trilha Discover
 <br />
 da plataforma de ensino rocketseat
 <br />
-Voce pode conferir a plataforma deles aqui?
+Voce pode conferir a plataforma deles aqui
 <br />
 https://www.rocketseat.com.br
 
